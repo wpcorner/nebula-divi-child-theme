@@ -57,5 +57,7 @@ Now you can start building your Divi website without the fear of losing your cus
 
 - [Extra Theme tutorials](https://www.divibanks.com/category/extra-theme-tutorials/)
 
+[Click on this link to download](https://github.com/lumumbapl/Divi-Blank-Child-Theme/archive/refs/heads/master.zip) this blank Divi child theme. 
+
 
 
