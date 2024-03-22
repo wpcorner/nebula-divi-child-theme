@@ -1,7 +1,7 @@
 /*
- Theme Name:  Blank Divi Child Theme
+ Theme Name:  Nebula Divi Child Theme
  Theme URI:   https://www.divibanks.com
- Description: Child Theme for Divi
+ Description: Stylish child theme for Divi built for bloggers and online store owners
  Author:      Divi Banks, LLC
  Author URI:  https://www.divibanks.com
  Template:    Divi
@@ -9,3 +9,42 @@
 */
 
 /*****Add any custom CSS below this line*****/
+
+/* Adjust the size of left-placed blurb image */
+
+.et_pb_blurb_position_left .et_pb_main_blurb_image { width: 200px !important;
+
+}
+
+/* Read more blog button */
+
+.more-link {
+    background-color: #940101;
+    display: inline-block !important;
+    color: #fff;
+	text-align: center !important;
+    padding: 5px 15px;
+    margin-top: 5px;
+	margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.more-link:hover {
+    background-color: #CC021D;
+}
+
+/* Pagination buttons */
+
+.pagination .alignleft a,
+.pagination .alignright a {
+    background-color: #940101;
+    display: inline-block !important;
+    color: #fff;
+    padding: 5px 15px;
+    text-transform: uppercase;
+}
+
+.pagination .alignleft a:hover,
+.pagination .alignright a:hover {
+    background-color: #CC021D;
+}
